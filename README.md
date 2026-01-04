@@ -39,7 +39,7 @@ All GraphQL requests are made through a Supabase Edge Function (not directly fro
 Favorites are stored in Postgres and protected using Row Level Security.
 
 
-Live Demo: https://rick-morty-favorites-dashboard.vercel.app/login
+Live Demo: https://rick-morty-favorites-dashboard.vercel.app
 
 
 🔧 Setup Instructions
