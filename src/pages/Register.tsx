@@ -35,6 +35,7 @@ export default function Register() {
       return;
     }
 
+    alert("Account created. Please confirm your e-mail.")
     reset();
     navigate("/login");
     setSubmitting(false);
